@@ -1,9 +1,9 @@
 <?php
 
 $servername = "localhost";
-$username = "id13604468_asish";
-$password = "Paralakhemundi@123";
-$database = "id13604468_newdb";
+$username = "root"
+$password = "";
+$database = "rfidattendance";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $database);
